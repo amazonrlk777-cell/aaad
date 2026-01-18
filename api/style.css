@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(25, 25, 25);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#sectionvols {
+    background-color: white;
+    padding: 3%;
+    border-radius: 10px;
+}
+
+h1 {
+    color: rgb(25,25,25);
+}
+
+p {
+    color: rgb(25,25,25);
+}
